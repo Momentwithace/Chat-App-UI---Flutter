@@ -24,8 +24,6 @@ class Message extends StatelessWidget {
           return const SizedBox();
       }
     }
-
-
     return  Padding(
       padding:  const EdgeInsets.only(top: kDefaultPadding),
       child: Row(

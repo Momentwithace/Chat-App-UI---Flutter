@@ -1,6 +1,5 @@
 import 'package:chat_app_ui/constant.dart';
 import 'package:chat_app_ui/models/ChatMessages.dart';
-import 'package:chat_app_ui/screens/chats/conponents/text_message.dart';
 import 'package:chat_app_ui/screens/messages/components/chat_input_field.dart';
 import 'package:chat_app_ui/screens/messages/components/message.dart';
 import 'package:flutter/material.dart';
